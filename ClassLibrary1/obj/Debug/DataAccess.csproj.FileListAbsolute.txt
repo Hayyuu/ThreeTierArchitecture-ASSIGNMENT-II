@@ -1,0 +1,6 @@
+c:\users\user\source\repos\ThreeTier\ClassLibrary1\obj\Debug\DataAccess.csprojAssemblyReference.cache
+c:\users\user\source\repos\ThreeTier\ClassLibrary1\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\ThreeTier\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\users\user\source\repos\ThreeTier\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\users\user\source\repos\ThreeTier\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\users\user\source\repos\ThreeTier\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

@@ -1,0 +1,41 @@
+﻿body {
+    background: white;
+    color: #FDEEF4;
+    
+}
+#Button1 {
+    background: #FFCBA4;
+    color: white;
+    width: 100px;
+    height: 35px;
+    margin-top:10px;
+    border-radius:3px;
+}
+#Button1:hover{
+    background:#D1D0CE;
+    
+}
+#container{
+    margin-left:35%;
+    margin-top:10%;
+    height:500px;
+    width:500px;
+    background:black;
+    border-radius:5px;
+}
+table{
+    padding-left:100px;
+    padding-top:50px;
+}
+table{
+    border-spacing:15px;
+    margin-top:10px;
+}
+#h{
+   font:40px bold;
+    border-spacing:20px;
+
+}
+table td {
+        font: 200px;
+    }

@@ -1,0 +1,9 @@
+c:\users\user\source\repos\ThreeTier\BussinessLogic\obj\Debug\BussinessLogic.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\ThreeTier\BussinessLogic\bin\Debug\BussinessLogic.dll
+c:\users\user\source\repos\ThreeTier\BussinessLogic\bin\Debug\BussinessLogic.pdb
+c:\users\user\source\repos\ThreeTier\BussinessLogic\bin\Debug\ClassLibrary1.dll
+c:\users\user\source\repos\ThreeTier\BussinessLogic\bin\Debug\ClassLibrary1.pdb
+c:\users\user\source\repos\ThreeTier\BussinessLogic\obj\Debug\BussinessLogic.csprojAssemblyReference.cache
+c:\users\user\source\repos\ThreeTier\BussinessLogic\obj\Debug\BussinessLogic.csproj.CopyComplete
+c:\users\user\source\repos\ThreeTier\BussinessLogic\obj\Debug\BussinessLogic.dll
+c:\users\user\source\repos\ThreeTier\BussinessLogic\obj\Debug\BussinessLogic.pdb
